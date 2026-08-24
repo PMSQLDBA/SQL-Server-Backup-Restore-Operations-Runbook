@@ -1,0 +1,14 @@
+Commercial Use License Template - Version 1.0
+
+Copyright (c) 2026. All rights reserved.
+
+A purchaser may use and modify these materials for their own internal business or personal operations.
+
+Not permitted without separate written permission:
+- Reselling, sublicensing, publishing, or redistributing the package or substantial portions of it.
+- Presenting the package as the purchaser's own commercial product.
+- Removing copyright/license notices when redistributing permitted internal copies.
+
+No warranty is provided. Database backup and recovery operations can cause data loss or downtime if performed incorrectly. The user is responsible for review, testing, approvals, backups, and validation.
+
+Customize this license with qualified legal advice before commercial publication.

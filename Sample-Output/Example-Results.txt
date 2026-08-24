@@ -1,0 +1,19 @@
+SQL Server Backup & Restore Runbook - Sample Evidence
+
+Database: SalesDB
+Recovery model: FULL
+Last FULL: 2026-08-22 23:00
+Last DIFF: 2026-08-23 12:00
+Last LOG:  2026-08-23 16:00
+
+Planned recovery:
+Target: SalesDB_RecoveryValidation
+Recovery point: 2026-08-23 15:42:00 local business time
+Sequence: FULL -> DIFF -> LOG backups in LSN order -> final LOG STOPAT -> RECOVERY
+
+Post-restore:
+Database state: ONLINE
+Application validation: Pending
+DBCC CHECKDB: Schedule/execute per approved recovery procedure
+
+SAMPLE ONLY - no real server/customer data.
